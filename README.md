@@ -43,7 +43,9 @@ These are the participants who have pledged to attend (may change):
 
 ## 2. Call for Participation
 
-If you are interested in participating, please [contact us](mailto:ethbohemia@skiff.com). We warmly welcome all global ETH* event organizers, developers of open-source event tools and other interested people.
+Space is very limited and we are primarily looking for global ETH* event organizers and developers of open-source event tools.
+
+If you are interested in participating, please [contact us](mailto:ethbohemia@skiff.com).
 
 ## 3. Venue
 
