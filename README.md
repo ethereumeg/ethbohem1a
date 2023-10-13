@@ -4,10 +4,20 @@
 
 - Date: February-March 2024 (TBD)
 - Duration: 3-7 days (TBD)
-- Attendees: ~50
 - Location: TBD, Czech Republic 🇨🇿
 
 ### Abstract
+
+ETHBohemia is a hackathon aimed at innovating event planning and community engagement. We bring together organizers, developers, and creatives to create transformative solutions for events from planning to experience. The event will not host any sponsors or commercial talks.
+
+## Table of Content
+
+1. [Hackathon](/#1--hackathon)
+   1. [Contributors](/#1--contributors) 
+3. [Call For Participation](/#2--call-for-participation)
+4. [Venue](/#3--venue)
+5. [About the Host](/#4--about-the-host)
+   1. [Contact](/#4-1--contact)
 
 ## 1. Hackathon
 
@@ -19,7 +29,20 @@ We expect to host around 50 in-person participants, with additional options for 
 
 ETHBohemia is a donation-backed non-profit event. Therefore, there will be no sponsors.
 
+### 1.1. Contributors
+
+These are the participants who have pledged to attend (may change):
+
+| Name  | Community | Organizing | Skills |
+| --- | --- | --- | --- |
+| [Tree](https://warpcast.com/tree) | Ethereum Event Gardeners, Gwei.cz | ETHBrno, Web3Privacy Summit | backend dev |
+| [PG](https://twitter.com/PG_CDG) | Web3Privacy Now, CryptoCanal | ETHRome, Web3Privacy Summit | dev |
+| [Wesley](https://twitter.com/wslyvh) | Ethereum Foundation, StreamETH | Devconnect | dev |
+| [Coinmandeer](https://twitter.com/KeenOfCoin) | Gwei.cz, Web3Privacy Now | Web3Privacy Summit | design |
+
 ## 2. Call for Participation
+
+If you are interested in participating, please contact us.
 
 ## 3. Venue
 
