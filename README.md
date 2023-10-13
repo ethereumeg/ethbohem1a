@@ -16,7 +16,7 @@ ETHBohemia is a hackathon aimed at innovating event planning and community engag
    1. [Schedule](#11-schedule)
    2. [Contributors](#12-contributors)
    3. [Hacking and Rules](#13-hacking-and-rules)
-   4. [Work-streams](#14-work-streams)
+   4. [Hack-streams](#14-work-streams)
    5. [Stream and Recordings](#15-stream-and-recordings)
 3. [Call For Participation](#2-call-for-participation)
 4. [Venue](#3-venue)
@@ -53,15 +53,17 @@ These are the participants who have pledged to attend (may change):
 
 This will be a completely different hackathon. We will decide and publish the projects to be hacked together in advance. Hackers goal will not be to fight each other for prizes or bounties, but instead to cooperate with each other. There will be no jury to judge your contribution - we will quantify this reputation together directly on a personal level using tools like [Coordinape](https://coordinape.com/).
 
-### 1.4 Work-streams
+### 1.4 Hack-streams
 
-| Project name | Description |
+| Name | Description |
 | --- | --- |
 | EthereumEG | Bootstrapping the initiative (primary) |
 | Event Lists | Event data interchange format specification |
 | Chronicle (db) | Historical Database of ETH Events |
 | ethevents.xyz | Frontend for Ethereum event database (chronicle) |
-| Confeth | Conference/hackathon planning and managing tool |
+| Confeth | Future conference/hackathon planning and managing tool |
+| Visitors privacy | Recommendations to increase visitors privacy |
+| Kickback | Higher event participation with attendee pledging |
 
 ### 1.5 Stream and Recordings
 
