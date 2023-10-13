@@ -43,23 +43,7 @@ These are the participants who have pledged to attend (may change):
 
 ## 2. Call for Participation
 
-If you are interested in participating, please contact us.
-
-### 2.1. Invites
-
-Here are the people we would like to have at the event, and they are warmly welcomed:
-
-| Name | Community/Project | Organizing |
-| --- | --- | --- |
-| [Afri](https://twitter.com/q9fcc) | Department of Decentralization | 🇩🇪 ETHBerlin, Protocol Berg |
-| [Eléonore Blanc](https://twitter.com/blockblanc) | CryptoCanal | 🇳🇱 ETHDam |
-| [Manu Alzuru](https://twitter.com/manualzuru) | DoinGud, Own.fund | 🇪🇸 ETHBarcelona |
-| [JosefJ](https://twitter.com/JosefJ_) | PWN | 🇨🇿 ETHPrague, 🇨🇭 EthereumZurich |
-| [limone.eth](https://twitter.com/limone_eth) | urbe.eth, buildspace | 🇮🇹 ETHRome | 
-| [matlemad](https://github.com/Matlemad) | - | 🇮🇹 ETHTurin | 
-| [Ceci](https://twitter.com/hyperalchemy) | - | 🇨🇿 ETHPrague |
-| [Chris Hobcroft](https://twitter.com/chrishobcroft) | - | 🇨🇿 ETHPrague |
-| [DrNick](https://twitter.com/DrNickA) | FactoryDAO | Off-Grid |
+If you are interested in participating, please [contact us](mailto:ethbohemia@skiff.com). We warmly welcome all global ETH* event organizers, developers of open-source event tools and other interested people.
 
 ## 3. Venue
 
