@@ -13,7 +13,11 @@ ETHBohemia is a hackathon aimed at innovating event planning and community engag
 ## Table of Content
 
 1. [Hackathon](#1-hackathon)
-   1. [Contributors](#11-contributors) 
+   1. [Schedule](#11-schedule)
+   2. [Contributors](#12-contributors)
+   3. [Hacking and Rules](#13-hacking-and-rules)
+   4. [Work-streams](#14-work-streams)
+   5. [Stream and Recordings](#15-stream-and-recordings)
 3. [Call For Participation](#2-call-for-participation)
 4. [Venue](#3-venue)
 5. [About the Host](#4-about-the-host)
@@ -29,17 +33,39 @@ We expect to host around 50 in-person participants, with additional options for 
 
 ETHBohemia is a donation-backed non-profit event. Therefore, there will be no sponsors.
 
-### 1.1. Contributors
+### 1.1 Schedule
+
+TBA
+
+### 1.2 Contributors
 
 These are the participants who have pledged to attend (may change):
 
-| Name  | Community/Project | Organizing | Skills |
+| Name | Community/Project | Organizing | Skills |
 | --- | --- | --- | --- |
 | [Tree](https://warpcast.com/tree) | Ethereum Event Gardeners, Gwei.cz | 🇨🇿 ETHBrno, Web3Privacy Events | backend dev |
 | [PG](https://twitter.com/PG_CDG) | Web3Privacy Now, CryptoCanal | 🇮🇹 ETHRome, Web3Privacy Events | dev |
 | [Wesley](https://twitter.com/wslyvh) | Ethereum Foundation, StreamETH | Devconnect | dev |
 | [Radek](https://twitter.com/radk) | Gwei.cz | 🇨🇿 BeerFi Prague | dev |
 | [Coinmandeer](https://twitter.com/KeenOfCoin) | Gwei.cz, Web3Privacy Now | Web3Privacy Events | design |
+
+### 1.3 Hacking and Rules
+
+This will be a completely different hackathon. We will decide and publish the projects to be hacked together in advance. Hackers goal will not be to fight each other for prizes or bounties, but instead to cooperate with each other. There will be no jury to judge your contribution - we will quantify this reputation together directly on a personal level using tools like [Coordinape](https://coordinape.com/).
+
+### 1.4 Work-streams
+
+| Project name | Description |
+| --- | --- |
+| EthereumEG | Bootstrapping the initiative (primary) |
+| Event Lists | Event data interchange format specification |
+| Chronicle (db) | Historical Database of ETH Events |
+| ethevents.xyz | Frontend for Ethereum event database (chronicle) |
+| Confeth | Conference/hackathon planning and managing tool |
+
+### 1.5 Stream and Recordings
+
+Streaming and recording of part of the talks will be provided.
 
 ## 2. Call for Participation
 
@@ -55,7 +81,7 @@ TBD
 
 The Hackathon is jointly hosted by the [Gwei.cz](https://gwei.cz) collective, which unites local Czech-Slovak web3 supporters, and the [Ethereum Event Gardeners](https://ethevents.club) community, an initiative that seeks to connect organizers and improve the culture of our events.
 
-### 4.1. Contact
+### 4.1 Contact
 
 To connect with Ethereum Event Gardeners community, join our forum:
 - https://ethevents.club/
