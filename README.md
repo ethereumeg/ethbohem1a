@@ -16,7 +16,7 @@ ETHBohemia is a hackathon aimed at innovating event planning and community engag
    1. [Schedule](#11-schedule)
    2. [Contributors](#12-contributors)
    3. [Hacking and Rules](#13-hacking-and-rules)
-   4. [Hack-streams](#14-work-streams)
+   4. [Hack-streams](#14-hack-streams)
    5. [Stream and Recordings](#15-stream-and-recordings)
 3. [Call For Participation](#2-call-for-participation)
 4. [Venue](#3-venue)
