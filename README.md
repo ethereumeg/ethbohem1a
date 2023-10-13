@@ -35,10 +35,10 @@ These are the participants who have pledged to attend (may change):
 
 | Name  | Community | Organizing | Skills |
 | --- | --- | --- | --- |
-| [Tree](https://warpcast.com/tree) | Ethereum Event Gardeners, Gwei.cz | ETHBrno, Web3Privacy Summit | backend dev |
-| [PG](https://twitter.com/PG_CDG) | Web3Privacy Now, CryptoCanal | ETHRome, Web3Privacy Summit | dev |
+| [Tree](https://warpcast.com/tree) | Ethereum Event Gardeners, Gwei.cz | ETHBrno, Web3Privacy Events | backend dev |
+| [PG](https://twitter.com/PG_CDG) | Web3Privacy Now, CryptoCanal | ETHRome, Web3Privacy Events | dev |
 | [Wesley](https://twitter.com/wslyvh) | Ethereum Foundation, StreamETH | Devconnect | dev |
-| [Coinmandeer](https://twitter.com/KeenOfCoin) | Gwei.cz, Web3Privacy Now | Web3Privacy Summit | design |
+| [Coinmandeer](https://twitter.com/KeenOfCoin) | Gwei.cz, Web3Privacy Now | Web3Privacy Events | design |
 
 ## 2. Call for Participation
 
