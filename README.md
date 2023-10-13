@@ -12,12 +12,12 @@ ETHBohemia is a hackathon aimed at innovating event planning and community engag
 
 ## Table of Content
 
-1. [Hackathon](/#1--hackathon)
-   1. [Contributors](/#1--contributors) 
-3. [Call For Participation](/#2--call-for-participation)
-4. [Venue](/#3--venue)
-5. [About the Host](/#4--about-the-host)
-   1. [Contact](/#4-1--contact)
+1. [Hackathon](/#1-hackathon)
+   1. [Contributors](/#1-contributors) 
+3. [Call For Participation](/#2-call-for-participation)
+4. [Venue](/#3-venue)
+5. [About the Host](/#4-about-the-host)
+   1. [Contact](/#41-contact)
 
 ## 1. Hackathon
 
