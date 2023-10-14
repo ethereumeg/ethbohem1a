@@ -6,7 +6,7 @@
 
 - Date: **February-March 2024** (TBD)
 - Duration: **3-7 days** (TBD)
-- Location: **TBD, Czech Republic** 🇨🇿
+- Location: **TBD, Czech Republic** 🇨🇿 OR **online**
 - Organized by 👨‍🌾 [Ethereum Event Gardeners](https://ethevents.club/) & 🇨🇿 [Gwei.cz](https://gwei.cz/)
 
 ### Abstract
@@ -28,7 +28,7 @@
 
 ## 1. Hackathon
 
-ETHBohemia[^ETHBOHEMIA] is envisioned as a dynamic, multi-day, both offline/online hackathon that brings together a diverse array of individuals, from event organizers and open-source tool developers to community advocates and creative visionaries — to focus on inclusivity, diversity, and innovation in event planning. We're not just exploring new tools for easier event organization; we're also diving into meaningful dialogues that uphold our non-profit values. The collaboration results in a wealth of shared insights that enrich both our community and the broader event landscape.
+ETHBohemia[^ETHBOHEMIA] is envisioned as a dynamic, multi-day, both offline and online hackathon that brings together a diverse array of individuals, from event organizers and open-source tool developers to community advocates and creative visionaries — to focus on inclusivity, diversity, and innovation in event planning. We're not just exploring new tools for easier event organization; we're also diving into meaningful dialogues that uphold our non-profit values. The collaboration results in a wealth of shared insights that enrich both our community and the broader event landscape.
 
 Our lens encompassing the entire event lifecycle—from intimate meetups to large-scale conferences, and from online to offline hackathons. We delve into the nuances of event planning, execution, and follow-up with a keen eye for innovation. This includes exploring state-of-the-art solutions for event data structuring, Ethereum ecosystem cataloging, and the latest in ticketing, video streaming, and hackathon platforms. However, our explorations aren't limited to just the technical aspects; we also tackle the more complex issues such as financing models, self-regulation, and attendee privacy. The ultimate goal is to arrive at actionable, holistic solutions that meet the needs of both organizers and participants, thereby revolutionizing the way events are conceptualized, organized, and enjoyed.
 
