@@ -5,6 +5,7 @@
 - Date: February-March 2024 (TBD)
 - Duration: 3-7 days (TBD)
 - Location: TBD, Czech Republic 🇨🇿
+- Organized by 👨‍🌾 [Ethereum Event Gardeners](https://ethevents.club/) & 🇨🇿 [Gwei.cz](https://gwei.cz/)
 
 ### Abstract
 
@@ -41,13 +42,15 @@ TBA
 
 These are the participants who have pledged to attend (may change):
 
-| Name | Community/Project | Organizing | Skills |
+| Name | Organizing | Community/Project | Skills |
 | --- | --- | --- | --- |
-| [Tree](https://warpcast.com/tree) | Ethereum Event Gardeners, Gwei.cz | 🇨🇿 ETHBrno, Web3Privacy Events | backend dev |
-| [PG](https://twitter.com/PG_CDG) | Web3Privacy Now, CryptoCanal | 🇮🇹 ETHRome, Web3Privacy Events | dev |
-| [Wesley](https://twitter.com/wslyvh) | Ethereum Foundation, StreamETH | Devconnect | dev |
-| [Radek](https://twitter.com/radk) | Gwei.cz | 🇨🇿 BeerFi Prague | dev |
-| [Coinmandeer](https://twitter.com/KeenOfCoin) | Gwei.cz, Web3Privacy Now | Web3Privacy Events | design |
+| **[Tree](https://warpcast.com/tree)** | 🇨🇿 [ETHBrno](https://ethbrno.cz/), 🌐 [W3PE](https://github.com/web3privacy/events)[^1] | [Ethereum Event Gardeners](https://ethevents.club/), [Gwei.cz](https://gwei.cz/) | backend dev |
+| **[PG](https://twitter.com/PG_CDG)** | 🇮🇹 [ETHRome](https://www.ethrome.org/), 🌐 [W3PE](https://github.com/web3privacy/events)[^1] | [Web3Privacy Now](https://web3privacy.info/), [CryptoCanal](https://www.cryptocanal.org/) | |
+| **[Wesley](https://twitter.com/wslyvh)** | 🌐 [Devconnect](https://devconnect.org/) | [Ethereum Foundation](https://ethereum.foundation/), [StreamETH](https://streameth.org/) | |
+| **[Radek](https://twitter.com/radk)** | 🇨🇿 [BeerFi Prague](https://beerfi.gwei.cz/) | [Gwei.cz](https://gwei.cz/) | SC dev |
+| **[Coinmandeer](https://twitter.com/KeenOfCoin)** | 🌐 [Web3Privacy Events](https://github.com/web3privacy/events)[^1] | [Gwei.cz](https://gwei.cz/), [Web3Privacy Now](https://web3privacy.info/) | design |
+
+[^1]: Web3Privacy Events: events department of Web3Privacy Now community; https://web3privacy.info/
 
 ### 1.3 Hacking and Rules
 
@@ -55,15 +58,19 @@ This will be a completely different hackathon. We will decide and publish the pr
 
 ### 1.4 Hack-streams
 
-| Name | Description |
-| --- | --- |
-| EthereumEG | Bootstrapping the initiative (primary) |
-| Event Lists | Event data interchange format specification |
-| Chronicle (db) | Historical Database of ETH Events |
-| ethevents.xyz | Frontend for Ethereum event database (chronicle) |
-| Confeth | Future conference/hackathon planning and managing tool |
-| Visitors privacy | Recommendations to increase visitors privacy |
-| Kickback | Higher event participation with attendee pledging |
+| Name           | Type               | Description                                       |
+| ---            | ---                | ---                                               |
+| EthereumEG     | Project            | Bootstrapping the initiative (primary)           |
+| Event Lists    | Project            | Event data interchange format specification      |
+| Chronicle (db) | Project            | Historical Database of ETH Events                |
+| ethevents.xyz  | Project            | Frontend for Ethereum event database (chronicle)  |
+| Ethereum.org Events | Project        | Implementing our database into Ethereum.org     |
+| Hackathon Org Guide | Project        | Knowledge base with best practices on how to organize a hackathon |
+| Confeth        | Project            | Future conference/hackathon planning and managing tool |
+| Kickback       | Project            | Higher event participation with attendee pledging |
+| Visitors privacy | Research          | Recommendations to increase visitors' privacy    |
+| Video Streaming | Research          | Exploring options, a guide to a low-cost setup   |
+
 
 ### 1.5 Stream and Recordings
 
