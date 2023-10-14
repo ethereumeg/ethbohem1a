@@ -11,7 +11,7 @@
 
 ### Abstract
 
-*ETHBohemia[^ETHBOHEMIA] is a hackathon aimed at innovating event planning and community engagement. We bring together organizers, developers, and creatives to create transformative solutions for events from planning to experience. The event will not host any sponsors or commercial talks.*
+*ETHBohemia[^ETHBOHEMIA] is a specialized hackathon aimed at innovating event planning and community engagement. We bring together organizers, developers, and creatives to create transformative solutions for events from planning to experience. The event will not host any sponsors or commercial talks.*
 
 **Follow us on 𝕏/Twitter ⟶ [@ETHBohemia](https://twitter.com/ETHBohemia)**
 
