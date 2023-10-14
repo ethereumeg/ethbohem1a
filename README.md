@@ -72,10 +72,12 @@ This will be a completely different hackathon. We will decide and publish the pr
 | ethevents.xyz  | Project            | Frontend for Ethereum event database (chronicle)  |
 | Ethereum.org Events | Project        | Implementing our database into Ethereum.org     |
 | Hackathon Org Guide | Project        | Knowledge base with best practices on how to organize a hackathon |
-| Ticketing Solutions | Research      | Current status of ticketing systems and ways to improve |
-| Visitors privacy | Research          | Recommendations to increase visitors' privacy    |
-| Video Streaming | Research          | Exploring options, a guide to a low-cost setup   |
+| Hackathon Ethics | Research         | How to organise hackathons responsibly |
 | Financing Models | Research         | Investigating sustainable financing for non-profit events |
+| Ticketing Solutions | Research      | Current status of ticketing systems and ways to improve |
+| Video Streaming | Research          | Exploring options, a guide to a low-cost setup   |
+| Visitors privacy | Research          | Recommendations to increase visitors' privacy    |
+| Impact Tracking | Research           | Measuring of the public good (events) contributions |
 | Confeth        | Project            | Future conference/hackathon planning and managing tool |
 | Kickback       | Project            | Higher event participation with attendee pledging |
 
