@@ -1,6 +1,6 @@
 <img src="./logo.jpeg" width="30%" alt="ETHBohemia Logo" />
 
-# ETHBohemia #1 (2024)
+# ETHBohem1a (2024)
 
 > The meta-hackathon focused on building self-hosted Ethereum events culture
 
