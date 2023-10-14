@@ -2,14 +2,14 @@
 
 > The meta-hackathon focused on building self-hosted Ethereum events culture
 
-- Date: February-March 2024 (TBD)
-- Duration: 3-7 days (TBD)
-- Location: TBD, Czech Republic 🇨🇿
+- Date: **February-March 2024** (TBD)
+- Duration: **3-7 days** (TBD)
+- Location: **TBD, Czech Republic** 🇨🇿
 - Organized by 👨‍🌾 [Ethereum Event Gardeners](https://ethevents.club/) & 🇨🇿 [Gwei.cz](https://gwei.cz/)
 
 ### Abstract
 
-ETHBohemia is a hackathon aimed at innovating event planning and community engagement. We bring together organizers, developers, and creatives to create transformative solutions for events from planning to experience. The event will not host any sponsors or commercial talks.
+*ETHBohemia[^ETHBOHEMIA] is a hackathon aimed at innovating event planning and community engagement. We bring together organizers, developers, and creatives to create transformative solutions for events from planning to experience. The event will not host any sponsors or commercial talks.*
 
 ## Table of Content
 
@@ -26,13 +26,15 @@ ETHBohemia is a hackathon aimed at innovating event planning and community engag
 
 ## 1. Hackathon
 
-ETHBohemia is envisioned as a dynamic, multi-day platform that brings together a diverse array of individuals, from event organizers and open-source tool developers to community advocates and creative visionaries — to focus on inclusivity, diversity, and innovation in event planning. We're not just exploring new tools for easier event organization; we're also diving into meaningful dialogues that uphold our non-profit values. The collaboration results in a wealth of shared insights that enrich both our community and the broader event landscape.
+ETHBohemia[^ETHBOHEMIA] is envisioned as a dynamic, multi-day platform that brings together a diverse array of individuals, from event organizers and open-source tool developers to community advocates and creative visionaries — to focus on inclusivity, diversity, and innovation in event planning. We're not just exploring new tools for easier event organization; we're also diving into meaningful dialogues that uphold our non-profit values. The collaboration results in a wealth of shared insights that enrich both our community and the broader event landscape.
 
 Our expansive lens extends beyond the realm of simple gatherings, encompassing the entire event lifecycle—from intimate meetups to large-scale conferences, and from online to offline hackathons. We delve into the nuances of event planning, execution, and follow-up with a keen eye for innovation. This includes exploring state-of-the-art solutions for event data structuring, Ethereum ecosystem cataloging, and the latest in ticketing, video streaming, and hackathon platforms. However, our explorations aren't limited to just the technical aspects; we also tackle the more complex issues such as financing models, self-regulation, and attendee privacy. The ultimate goal is to arrive at actionable, holistic solutions that meet the needs of both organizers and participants, thereby revolutionizing the way events are conceptualized, organized, and enjoyed.
 
 We expect to host around 50 in-person participants, with additional options for online engagement. A strict adherence to our event's Code of Conduct ensures that ETHBohemia remains a respectful and transformative experience for all involved.
 
 ETHBohemia is a donation-backed non-profit event. Therefore, there will be no sponsors.
+
+[^ETHBOHEMIA]: ETHBohemia; Bohemia (/boʊˈhiːmiə/) is the westernmost and largest historical region of the Czech Republic. https://en.wikipedia.org/wiki/Bohemia
 
 ### 1.1 Schedule
 
@@ -44,13 +46,13 @@ These are the participants who have pledged to attend (may change):
 
 | Name | Organizing | Community/Project | Skills |
 | --- | --- | --- | --- |
-| **[Tree](https://warpcast.com/tree)** | 🇨🇿 [ETHBrno](https://ethbrno.cz/), 🌐 [W3PE](https://github.com/web3privacy/events)[^1] | [Ethereum Event Gardeners](https://ethevents.club/), [Gwei.cz](https://gwei.cz/) | backend dev |
-| **[PG](https://twitter.com/PG_CDG)** | 🇮🇹 [ETHRome](https://www.ethrome.org/), 🌐 [W3PE](https://github.com/web3privacy/events)[^1] | [Web3Privacy Now](https://web3privacy.info/), [CryptoCanal](https://www.cryptocanal.org/) | |
+| **[Tree](https://warpcast.com/tree)** | 🇨🇿 [ETHBrno](https://ethbrno.cz/), 🌐 [W3PE](https://github.com/web3privacy/events)[^W3PE] | [Ethereum Event Gardeners](https://ethevents.club/), [Gwei.cz](https://gwei.cz/) | backend dev |
+| **[PG](https://twitter.com/PG_CDG)** | 🇮🇹 [ETHRome](https://www.ethrome.org/), 🌐 [W3PE](https://github.com/web3privacy/events)[^W3PE] | [Web3Privacy Now](https://web3privacy.info/), [CryptoCanal](https://www.cryptocanal.org/) | |
 | **[Wesley](https://twitter.com/wslyvh)** | 🌐 [Devconnect](https://devconnect.org/) | [Ethereum Foundation](https://ethereum.foundation/), [StreamETH](https://streameth.org/) | |
 | **[Radek](https://twitter.com/radk)** | 🇨🇿 [BeerFi Prague](https://beerfi.gwei.cz/) | [Gwei.cz](https://gwei.cz/) | SC dev |
-| **[Coinmandeer](https://twitter.com/KeenOfCoin)** | 🌐 [Web3Privacy Events](https://github.com/web3privacy/events)[^1] | [Gwei.cz](https://gwei.cz/), [Web3Privacy Now](https://web3privacy.info/) | design |
+| **[Coinmandeer](https://twitter.com/KeenOfCoin)** | 🌐 [Web3Privacy Events](https://github.com/web3privacy/events)[^W3PE] | [Gwei.cz](https://gwei.cz/), [Web3Privacy Now](https://web3privacy.info/) | design |
 
-[^1]: Web3Privacy Events: events department of Web3Privacy Now community; https://web3privacy.info/
+[^W3PE]: Web3Privacy Events: events department of Web3Privacy Now community; https://web3privacy.info/
 
 ### 1.3 Hacking and Rules
 
