@@ -13,7 +13,8 @@
 
 *ETHBohemia[^ETHBOHEMIA] is a specialized hackathon aimed at innovating event planning and community engagement. We bring together organizers, developers, and creatives to create transformative solutions for events from planning to experience. The event will not host any sponsors or commercial talks.*
 
-**Follow us on 𝕏/Twitter ⟶ [@ETHBohemia](https://twitter.com/ETHBohemia)**
+- **Follow us on 𝕏/Twitter ⟶ [@ETHBohemia](https://twitter.com/ETHBohemia)**
+- Read [Introducing post on our forum](https://ethevents.club/t/introducing-ethbohem1a-gardeners-hackathon-feb-mar-2024/46)
 
 ## Table of Content
 
@@ -46,7 +47,7 @@ TBA
 
 ### 1.2 Contributors
 
-These are the participants who have pledged to attend (may change):
+These are the participants who have already pledged to attend (may change):
 
 | Name | Organizing | Community/Project | Skills |
 | --- | --- | --- | --- |
@@ -56,6 +57,8 @@ These are the participants who have pledged to attend (may change):
 | **[Radek](https://twitter.com/radk)** | 🇨🇿 [BeerFi Prague](https://beerfi.gwei.cz/) | [Gwei.cz](https://gwei.cz/) | SC dev |
 | **[Coinmandeer](https://twitter.com/KeenOfCoin)** | 🌐 [Web3Privacy Events](https://github.com/web3privacy/events)[^W3PE] | [Gwei.cz](https://gwei.cz/), [Web3Privacy Now](https://web3privacy.info/) | design |
 
+
+
 [^W3PE]: Web3Privacy Events: events department of Web3Privacy Now community; https://web3privacy.info/
 
 ### 1.3 Hacking and Rules
@@ -63,6 +66,8 @@ These are the participants who have pledged to attend (may change):
 This will be a completely different hackathon. We will decide and publish the projects to be hacked together in advance. Hackers goal will not be to fight each other for prizes or bounties, but instead to cooperate with each other. There will be no jury to judge your contribution - we will quantify this reputation together directly on a personal level using tools like [Coordinape](https://coordinape.com/).
 
 ### 1.4 Hack-streams
+
+(WiP - This is not a complete list of streams)
 
 | Name           | Type               | Description                                       |
 | ---            | ---                | ---                                               |
@@ -80,7 +85,6 @@ This will be a completely different hackathon. We will decide and publish the pr
 | Impact Tracking | Research           | Measuring of the public good (events) contributions |
 | Confeth        | Project            | Future conference/hackathon planning and managing tool |
 | Kickback       | Project            | Higher event participation with attendee pledging |
-
 
 ### 1.5 Stream and Recordings
 
