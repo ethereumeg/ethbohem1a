@@ -52,6 +52,7 @@ These are the participants who have already pledged to attend (may change):
 | Name | Organizing | Community/Project | Skills |
 | --- | --- | --- | --- |
 | **[Tree](https://warpcast.com/tree)** | 🇨🇿 [ETHBrno](https://ethbrno.cz/), 🌐 [W3PE](https://github.com/web3privacy/events)[^W3PE] | [Ethereum Event Gardeners](https://ethevents.club/), [Gwei.cz](https://gwei.cz/) | JS dev |
+| **[Afri](https://twitter.com/q9f)** | 🇩🇪 [ETHBerlin](https://ethberlin.org/), 🇩🇪 [Protocol Berg](https://protocol.berlin/) | [Department of Decentralization (DoD)](https://dod.ngo/) | |
 | **[PG](https://twitter.com/PG_CDG)** | 🇮🇹 [ETHRome](https://www.ethrome.org/), 🌐 [W3PE](https://github.com/web3privacy/events)[^W3PE] | [Web3Privacy Now](https://web3privacy.info/), [CryptoCanal](https://www.cryptocanal.org/) | |
 | **[Wesley](https://twitter.com/wslyvh)** | 🌐 [Devconnect](https://devconnect.org/) | [Ethereum Foundation](https://ethereum.foundation/), [StreamETH](https://streameth.org/) | |
 | **[Mykola Siusko](https://twitter.com/nicksvyaznoy)** | 🌐 [Web3Privacy Events](https://github.com/web3privacy/events)[^W3PE] | [Web3Privacy Now](https://web3privacy.info/), [NYM](https://nymtech.net/) | |
