@@ -5,7 +5,7 @@
 > The meta-hackathon focused on building self-hosted Ethereum events culture
 
 - Date: **February-March 2024** (TBD)
-- Duration: **3-7 days** (TBD)
+- Duration: **5-7 days** (in-person), **2-4 weeks** (online) (TBD)
 - Location: **TBD, Czech Republic** 🇨🇿 OR **online**
 - Organized by 👨‍🌾 [Ethereum Event Gardeners](https://ethevents.club/) & 🇨🇿 [Gwei.cz](https://gwei.cz/)
 
