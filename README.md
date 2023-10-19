@@ -52,17 +52,17 @@ TBA
 
 These are the participants who have already pledged to attend (may change):
 
-| Name | Organizing | Community/Project | Skills |
-| --- | --- | --- | --- |
-| **[Tree](https://warpcast.com/tree)** | 🇨🇿 [ETHBrno](https://ethbrno.cz/), 🌐 [W3PE](https://github.com/web3privacy/events)[^W3PE] | [Ethereum Event Gardeners](https://ethevents.club/), [Gwei.cz](https://gwei.cz/) | JS dev |
-| **[Afri](https://twitter.com/q9f)** | 🇩🇪 [ETHBerlin](https://ethberlin.org/), 🇩🇪 [Protocol Berg](https://protocol.berlin/) | [Department of Decentralization (DoD)](https://dod.ngo/) | |
-| **[PG](https://twitter.com/PG_CDG)** | 🇮🇹 [ETHRome](https://www.ethrome.org/), 🌐 [W3PE](https://github.com/web3privacy/events)[^W3PE] | [Web3Privacy Now](https://web3privacy.info/), [CryptoCanal](https://www.cryptocanal.org/) | |
-| **[Wesley](https://twitter.com/wslyvh)** | 🌐 [Devconnect](https://devconnect.org/) | [Ethereum Foundation](https://ethereum.foundation/), [StreamETH](https://streameth.org/) | |
-| **[Mykola Siusko](https://twitter.com/nicksvyaznoy)** | 🌐 [Web3Privacy Events](https://github.com/web3privacy/events)[^W3PE] | [Web3Privacy Now](https://web3privacy.info/), [NYM](https://nymtech.net/) | |
-| **[Radek](https://twitter.com/radk)** | 🇨🇿 [BeerFi Prague](https://beerfi.gwei.cz/) | [Gwei.cz](https://gwei.cz/) | SC dev |
-| **[Coinmandeer](https://twitter.com/KeenOfCoin)** | 🌐 [Web3Privacy Events](https://github.com/web3privacy/events)[^W3PE] | [Gwei.cz](https://gwei.cz/), [Web3Privacy Now](https://web3privacy.info/) | design |
-| **[Václav Pavlín](https://twitter.com/vpavlin)** | - | [Status](https://status.im/), [Waku](https://waku.org/) ([Logos](https://logos.co/)) | dev |
-| **[Chris Hobcroft](https://twitter.com/chrishobcroft)** | - | [Livepeer](https://livepeer.org/) | |
+| Name | Community/Project | Organizing |
+| --- | --- | --- |
+| **[Tree](https://warpcast.com/tree)** | [Ethereum Event Gardeners](https://ethevents.club/), [Gwei.cz](https://gwei.cz/) | 🇨🇿 [ETHBrno](https://ethbrno.cz/), 🌐 [W3PE](https://github.com/web3privacy/events)[^W3PE] |
+| **[Afri](https://twitter.com/q9f)** | [Department of Decentralization (DoD)](https://dod.ngo/) | 🇩🇪 [ETHBerlin](https://ethberlin.org/), 🇩🇪 [Protocol Berg](https://protocol.berlin/) |
+| **[PG](https://twitter.com/PG_CDG)** | [Web3Privacy Now](https://web3privacy.info/), [CryptoCanal](https://www.cryptocanal.org/) | 🇮🇹 [ETHRome](https://www.ethrome.org/), 🌐 [W3PE](https://github.com/web3privacy/events)[^W3PE] |
+| **[Wesley](https://twitter.com/wslyvh)** | [Ethereum Foundation](https://ethereum.foundation/), [StreamETH](https://streameth.org/) | 🌐 [Devconnect](https://devconnect.org/) |
+| **[Mykola Siusko](https://twitter.com/nicksvyaznoy)** | [Web3Privacy Now](https://web3privacy.info/), [NYM](https://nymtech.net/) | 🌐 [Web3Privacy Events](https://github.com/web3privacy/events)[^W3PE] |
+| **[Radek](https://twitter.com/radk)** | [Gwei.cz](https://gwei.cz/) | 🇨🇿 [BeerFi Prague](https://beerfi.gwei.cz/) |
+| **[Coinmandeer](https://twitter.com/KeenOfCoin)** | [Gwei.cz](https://gwei.cz/), [Web3Privacy Now](https://web3privacy.info/) | 🌐 [Web3Privacy Events](https://github.com/web3privacy/events)[^W3PE] |
+| **[Václav Pavlín](https://twitter.com/vpavlin)** | [Status](https://status.im/), [Waku](https://waku.org/) ([Logos](https://logos.co/)) | - |
+| **[Chris Hobcroft](https://twitter.com/chrishobcroft)** | [Livepeer](https://livepeer.org/) | - |
 
 
 [^W3PE]: Web3Privacy Events: events department of Web3Privacy Now community; https://web3privacy.info/
