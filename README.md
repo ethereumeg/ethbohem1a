@@ -78,9 +78,9 @@ This will be a completely different hackathon. We will decide and publish the pr
 | Name           | Type               | Description                                       |
 | ---            | ---                | ---                                               |
 | EthereumEG     | Project            | Bootstrapping the initiative (primary)           |
-| Event Lists    | Project            | Event data interchange format specification      |
-| Chronicle (db) | Project            | Historical Database of ETH Events                |
-| ethevents.xyz  | Project            | Frontend for Ethereum event database (chronicle)  |
+| [Event Lists](https://github.com/ethereumeg/event-lists) ([forum](https://ethevents.club/t/event-lists-an-event-list-standard/42))    | Project            | Event data interchange format specification      |
+| [Chronicle (db)](https://github.com/ethereumeg/db) ([forum](https://ethevents.club/t/chronicle-historical-database-of-eth-events/13)) | Project            | Historical Database of ETH Events                |
+| [ethevents.xyz](https://github.com/ethereumeg/ethevents-xyz) | Project            | Frontend for Ethereum event database (chronicle)  |
 | Ethereum.org Events | Project        | Implementing our database into Ethereum.org     |
 | Hackathon Org Guide | Project        | Knowledge base with best practices on how to organize a hackathon |
 | Hackathon Ethics | Research         | How to organise hackathons responsibly |
@@ -89,8 +89,8 @@ This will be a completely different hackathon. We will decide and publish the pr
 | Video Streaming | Research          | Exploring options, a guide to a low-cost setup   |
 | Visitors privacy | Research          | Recommendations to increase visitors' privacy    |
 | Impact Tracking | Research           | Measuring of the public good (events) contributions |
-| Confeth        | Project            | Future conference/hackathon planning and managing tool |
-| Kickback       | Project            | Higher event participation with attendee pledging |
+| [Confeth](https://github.com/ethereumeg/confeth)        | Project            | Future conference/hackathon planning and managing tool |
+| [Kickback](https://kickback.events/)       | Project            | Higher event participation with attendee pledging |
 
 ### 1.5 Stream and Recordings
 
