@@ -59,8 +59,8 @@ These are the participants who have already pledged to attend (may change):
 | **[PG](https://twitter.com/PG_CDG)** | [Web3Privacy Now](https://web3privacy.info/), [CryptoCanal](https://www.cryptocanal.org/) | 🇮🇹 [ETHRome](https://www.ethrome.org/), 🌐 [W3PE](https://github.com/web3privacy/events)[^W3PE] |
 | **[Wesley](https://twitter.com/wslyvh)** | [Ethereum Foundation](https://ethereum.foundation/), [StreamETH](https://streameth.org/) | 🌐 [Devconnect](https://devconnect.org/) |
 | **[Mykola Siusko](https://twitter.com/nicksvyaznoy)** | [Web3Privacy Now](https://web3privacy.info/), [NYM](https://nymtech.net/) | 🌐 [Web3Privacy Events](https://github.com/web3privacy/events)[^W3PE] |
-| **[Radek](https://twitter.com/radk)** | [Gwei.cz](https://gwei.cz/) | 🇨🇿 [BeerFi Prague](https://beerfi.gwei.cz/) |
 | **[Coinmandeer](https://twitter.com/KeenOfCoin)** | [Gwei.cz](https://gwei.cz/), [Web3Privacy Now](https://web3privacy.info/) | 🌐 [Web3Privacy Events](https://github.com/web3privacy/events)[^W3PE] |
+| **[Radek](https://twitter.com/radk)** | [Gwei.cz](https://gwei.cz/) | 🇨🇿 [BeerFi Prague](https://beerfi.gwei.cz/) |
 | **[Václav Pavlín](https://twitter.com/vpavlin)** | [Status](https://status.im/), [Waku](https://waku.org/) ([Logos](https://logos.co/)) | - |
 | **[Chris Hobcroft](https://twitter.com/chrishobcroft)** | [Livepeer](https://livepeer.org/) | - |
 
