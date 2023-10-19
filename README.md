@@ -62,7 +62,7 @@ These are the participants who have already pledged to attend (may change):
 | **[Radek](https://twitter.com/radk)** | 🇨🇿 [BeerFi Prague](https://beerfi.gwei.cz/) | [Gwei.cz](https://gwei.cz/) | SC dev |
 | **[Coinmandeer](https://twitter.com/KeenOfCoin)** | 🌐 [Web3Privacy Events](https://github.com/web3privacy/events)[^W3PE] | [Gwei.cz](https://gwei.cz/), [Web3Privacy Now](https://web3privacy.info/) | design |
 | **[Václav Pavlín](https://twitter.com/vpavlin)** | - | [Status](https://status.im/), [Waku](https://waku.org/) ([Logos](https://logos.co/)) | dev |
-
+| **[Chris Hobcroft](https://twitter.com/chrishobcroft)** | - | [Livepeer](https://livepeer.org/) | |
 
 
 [^W3PE]: Web3Privacy Events: events department of Web3Privacy Now community; https://web3privacy.info/
