@@ -89,6 +89,7 @@ This will be a completely different hackathon. We will decide and publish the pr
 | Video Streaming | Research          | Exploring options, a guide to a low-cost setup   |
 | Visitors privacy | Research          | Recommendations to increase visitors' privacy    |
 | Impact Tracking | Research           | Measuring of the public good (events) contributions |
+| "ETHTalks" ([forum](https://ethevents.club/t/ethtalks-aggregator-of-talks-from-conferences-and-hackathons-idea/50)) | Project | Aggregator of talks from conferences and hackathons | 
 | [Confeth](https://github.com/ethereumeg/confeth)        | Project            | Future conference/hackathon planning and managing tool |
 | [Kickback](https://kickback.events/)       | Project            | Higher event participation with attendee pledging |
 
