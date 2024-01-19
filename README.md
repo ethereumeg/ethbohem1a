@@ -57,7 +57,7 @@ These are the participants who have already pledged to attend (may change):
 | **[tree](https://warpcast.com/tree)** | [Ethereum Event Gardeners](https://ethevents.club/), [Gwei.cz](https://gwei.cz/) | 🇨🇿 [ETHBrno](https://ethbrno.cz/), 🌐 [W3PE](https://github.com/web3privacy/events)[^W3PE] |
 | **[Afri](https://twitter.com/q9f)** | [Department of Decentralization (DoD)](https://dod.ngo/) | 🇩🇪 [ETHBerlin](https://ethberlin.org/), 🇩🇪 [Protocol Berg](https://protocol.berlin/) |
 | **[PG](https://twitter.com/PG_CDG)** | [Web3Privacy Now](https://web3privacy.info/), [CryptoCanal](https://www.cryptocanal.org/) | 🇮🇹 [ETHRome](https://www.ethrome.org/), 🌐 [W3PE](https://github.com/web3privacy/events)[^W3PE] |
-| **[Wesley](https://twitter.com/wslyvh)** | [Ethereum Foundation](https://ethereum.foundation/), [StreamETH](https://streameth.org/) | 🌐 [Devconnect](https://devconnect.org/) |
+| **[Wesley](https://twitter.com/wslyvh)** | [Ethereum Foundation](https://ethereum.foundation/), [Show Up](https://www.showup.events/), [StreamETH](https://streameth.org/) | 🌐 [Devcon](https://devcon.org/), [Devconnect](https://devconnect.org/) |
 | **[Mykola Siusko](https://twitter.com/nicksvyaznoy)** | [Web3Privacy Now](https://web3privacy.info/), [NYM](https://nymtech.net/) | 🌐 [Web3Privacy Events](https://github.com/web3privacy/events)[^W3PE] |
 | **[ajs](https://github.com/ajs-xmr)** | [Monero](https://www.getmonero.org/) | 🌐 [MoneroKon](https://monerokon.com/) |
 | **[Coinmandeer](https://twitter.com/KeenOfCoin)** | [Gwei.cz](https://gwei.cz/), [Web3Privacy Now](https://web3privacy.info/) | 🌐 [Web3Privacy Events](https://github.com/web3privacy/events)[^W3PE] |
@@ -92,7 +92,7 @@ This will be a completely different hackathon. We will decide and publish the pr
 | Impact Tracking | Research           | Measuring of the public good (events) contributions |
 | "ETHTalks" ([forum](https://ethevents.club/t/ethtalks-aggregator-of-talks-from-conferences-and-hackathons-idea/50)) | Project | Aggregator of talks from conferences and hackathons | 
 | [Confeth](https://github.com/ethereumeg/confeth)        | Project            | Future conference/hackathon planning and managing tool |
-| [Kickback](https://kickback.events/)       | Project            | Higher event participation with attendee pledging |
+| [Show Up](https://www.showup.events/)       | Project            | Onchain RSVP and Event management |
 
 ### 1.5 Stream and Recordings
 
